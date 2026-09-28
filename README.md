@@ -8,7 +8,7 @@ A collection of reading notes and seminar presentations from the 2026 Graduate S
 |-------|-------|
 | RoFormer: Rotary Position Embedding (RoPE) | [View Notes](https://github.com/ChengruiHan/Grad-Seminar26-Notes/blob/main/RoPE.pdf) |
 | Scaling Laws: From Training to Inference | [View Notes](https://github.com/ChengruiHan/Grad-Seminar26-Notes/blob/main/Scaling%20Laws.pdf) |
-| DETR Series for Object Detection | [View Notes](https://github.com/ChengruiHan/Grad-Seminar26-Notes/blob/main/DETR%20%E7%B3%BB%E5%88%97%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) |
+| DETR Series for Object Detection | [View Notes](https://github.com/ChengruiHan/Grad-Seminar26-Notes/blob/main/DETR%20Series%20for%20Object%20Detection.pdf) |
 | Is Harness All You Need? | [View Notes](https://github.com/ChengruiHan/Grad-Seminar26-Notes/blob/main/Harness.pdf) |
 
 ## Summaries
